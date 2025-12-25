@@ -1,0 +1,63 @@
+# Keil uVision/EW8051 项目文件
+*.uvgui
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.uvproj
+*.uvprojx
+*.uvmpw
+
+# 构建输出文件
+*.plg
+*.lnp
+*.lst
+*.map
+*.dep
+
+# 对象文件和可执行文件
+*.obj
+*.o
+*.axf
+*.elf
+*.hex
+*.bin
+*.m51
+*.i
+*.d
+
+# 调试文件
+*.cdb
+*.dbg
+*.scvd
+*.ini
+
+# 临时文件
+*.bak
+*.tmp
+*~
+*.sdf
+*.ipch
+*.crf
+*.htm
+
+# 目录
+/List/
+/Obj/
+/Output/
+/Debug/
+/Release/
+/Build/
+/.vs/
+/.vscode/
+
+# 用户特定文件（应避免共享）
+*.uvguix.*
+*.uvoptx.*
+*.uvprojx.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
